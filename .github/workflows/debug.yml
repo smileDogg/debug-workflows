@@ -1,5 +1,5 @@
 name: Debugging Demo
-
+# link: https://docs.github.com/en/actions/how-tos/monitor-workflows/enable-debug-logging
 on:
     workflow_dispatch:
     push:

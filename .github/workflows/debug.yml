@@ -1,5 +1,6 @@
 name: Debugging Demo
-# link: https://docs.github.com/en/actions/how-tos/monitor-workflows/enable-debug-logging
+# link (Enabling debug logging): https://docs.github.com/en/actions/how-tos/monitor-workflows/enable-debug-logging
+# link (Download workflow run logs): https://docs.github.com/en/rest/actions/workflow-runs?apiVersion=2022-11-28#download-workflow-run-logs
 on:
     workflow_dispatch:
     push:
